@@ -1,0 +1,3 @@
+# setup
+
+`crontab -e`
